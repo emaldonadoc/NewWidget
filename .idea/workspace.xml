@@ -6,12 +6,12 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391017326356" ignored="false" />
     <file path="/home.hbs" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391034085563" ignored="false" />
-    <file path="/home-controller.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391040075830" ignored="false" />
+    <file path="/home-controller.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391105730261" ignored="false" />
     <file path="/a.dummy" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391040390258" ignored="false" />
     <file path="$PROJECT_DIR$/../WINBITS/widgets/vendor/scripts/chaplin-0.9.0.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391017973142" ignored="false" />
     <file path="/chaplin-0.9.0.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391017973142" ignored="false" />
     <file path="/application.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391018433780" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/app.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391040719412" ignored="false" />
+    <file path="$PROJECT_DIR$/public/javascripts/app.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391108936461" ignored="false" />
     <file path="/*.regexp" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391037639170" ignored="false" />
     <file path="/head-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391021286203" ignored="false" />
     <file path="/header-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391023548313" ignored="false" />
@@ -22,9 +22,15 @@
     <file path="/controller.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391034272984" ignored="false" />
     <file path="/main-page-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391039892753" ignored="false" />
     <file path="/main.hbs" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391036309377" ignored="false" />
-    <file path="/header-page-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391040303470" ignored="false" />
+    <file path="/header-page-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391109042263" ignored="false" />
     <file path="$PROJECT_DIR$/../WINBITS/widgets/public/index.html" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391037708219" ignored="false" />
     <file path="/index.html" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391039779273" ignored="false" />
+    <file path="/.gitignore" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391100329618" ignored="false" />
+    <file path="/login-controller.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391107091355" ignored="false" />
+    <file path="/login.hbs" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391105009071" ignored="false" />
+    <file path="$PROJECT_DIR$/public/stylesheets/app.css" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391105779974" ignored="false" />
+    <file path="/login-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391107108989" ignored="false" />
+    <file path="/routes.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391108515170" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,28 +91,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/main/templates/main.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="-0.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main-page-view.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/main/main-page-view.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="15" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/footer/templates/footer.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="10" selection-start="1542" selection-end="1542" vertical-scroll-proportion="-22.5">
+            <state line="6" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,19 +109,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-controller.coffee" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
+      <file leaf-file-name="routes.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="122" selection-start="412" selection-end="412" vertical-scroll-proportion="0.43515357">
+            <state line="3" column="35" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/header/templates/header.hbs">
+      <file leaf-file-name="home-controller.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="0" selection-start="3416" selection-end="3416" vertical-scroll-proportion="-30.916666">
+            <state line="6" column="56" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,7 +130,16 @@
       <file leaf-file-name="header-page-view.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/header/header-page-view.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="11" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+            <state line="15" column="86" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chaplin.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/chaplin/chaplin.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="8916" selection-start="8906" selection-end="8916" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -151,7 +148,34 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="36" selection-start="581" selection-end="581" vertical-scroll-proportion="-9.375">
+            <state line="13" column="6" selection-start="572" selection-end="572" vertical-scroll-proportion="-8.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-controller.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/login-controller.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="106" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0867052">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.hbs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/login/templates/login.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="79" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-view.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/login/login-view.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="2" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,22 +191,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/home/home-page-view.coffee" />
-        <option value="$PROJECT_DIR$/brunch-config.coffee" />
-        <option value="$PROJECT_DIR$/app/views/site/templates/main.hbs" />
-        <option value="$PROJECT_DIR$/app/views/site/site-view.coffee" />
-        <option value="$PROJECT_DIR$/app/controllers/base/controller.coffee" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/app/views/main/main-page-view.coffee" />
         <option value="$PROJECT_DIR$/app/views/footer/templates/header.hbs" />
         <option value="$PROJECT_DIR$/app/views/footer/header-page-view.coffee" />
         <option value="$PROJECT_DIR$/app/views/footer/footer-page-view.coffee" />
         <option value="$PROJECT_DIR$/app/views/main/templates/main.hbs" />
         <option value="$PROJECT_DIR$/app/views/footer/templates/footer.hbs" />
         <option value="$PROJECT_DIR$/app/views/header/templates/header.hbs" />
-        <option value="$PROJECT_DIR$/app/views/header/header-page-view.coffee" />
         <option value="$PROJECT_DIR$/app/assets/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/views/login/templates/login.hbs" />
+        <option value="$PROJECT_DIR$/app/views/login/header-page-view.coffee" />
         <option value="$PROJECT_DIR$/app/controllers/home-controller.coffee" />
+        <option value="$PROJECT_DIR$/app/controllers/login-controller.coffee" />
+        <option value="$PROJECT_DIR$/app/routes.coffee" />
+        <option value="$PROJECT_DIR$/app/views/header/header-page-view.coffee" />
+        <option value="$PROJECT_DIR$/app/views/login/login-view.coffee" />
       </list>
     </option>
   </component>
@@ -220,8 +244,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -250,7 +274,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="bower_components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,120 +289,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="header" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="header" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="footer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="footer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,24 +310,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -434,11 +326,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/login" />
+      <recent name="$PROJECT_DIR$/app/controllers" />
       <recent name="$PROJECT_DIR$/app/views" />
       <recent name="$PROJECT_DIR$/app/views/main" />
       <recent name="$PROJECT_DIR$/app/styles/app" />
-      <recent name="$PROJECT_DIR$/app/views/templates" />
-      <recent name="$PROJECT_DIR$/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -520,7 +412,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -568,7 +460,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -652,58 +544,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/application.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.11851016">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/initialize.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/mediator.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brunch-config.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="50" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/base/controller.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="263" selection-end="263" vertical-scroll-proportion="0.11851016">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="17" selection-start="630" selection-end="630" vertical-scroll-proportion="0.27842227">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/header/templates/header.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="3416" selection-end="3416" vertical-scroll-proportion="-30.916666">
           <folding />
         </state>
       </provider>
@@ -715,6 +558,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/footer/templates/footer.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="10" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="134" selection-start="343" selection-end="343" vertical-scroll-proportion="0.5586907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/header/templates/header.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="3416" selection-end="3416" vertical-scroll-proportion="-30.916666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="6" selection-start="572" selection-end="572" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/chaplin/chaplin.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8916" selection-start="8906" selection-end="8916" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main/main-page-view.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/footer/footer-page-view.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="18" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
@@ -722,37 +614,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/header/header-page-view.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="11" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="581" selection-end="581" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/footer/templates/footer.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="10" selection-start="1542" selection-end="1542" vertical-scroll-proportion="-22.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main/main-page-view.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="15" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="122" selection-start="412" selection-end="412" vertical-scroll-proportion="0.43515357">
+        <state line="6" column="56" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="35" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/header/header-page-view.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="86" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login/login-view.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login/templates/login.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="79" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/login-controller.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="106" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0867052">
           <folding />
         </state>
       </provider>
