@@ -11,7 +11,7 @@
     <file path="$PROJECT_DIR$/../WINBITS/widgets/vendor/scripts/chaplin-0.9.0.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391017973142" ignored="false" />
     <file path="/chaplin-0.9.0.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391017973142" ignored="false" />
     <file path="/application.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391018433780" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/app.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391040461160" ignored="false" />
+    <file path="$PROJECT_DIR$/public/javascripts/app.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391040719412" ignored="false" />
     <file path="/*.regexp" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391037639170" ignored="false" />
     <file path="/head-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391021286203" ignored="false" />
     <file path="/header-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391023548313" ignored="false" />
@@ -124,7 +124,7 @@
       <file leaf-file-name="home-controller.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.025597269">
+            <state line="17" column="122" selection-start="412" selection-end="412" vertical-scroll-proportion="0.43515357">
               <folding />
             </state>
           </provider>
@@ -563,7 +563,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="25" width="1924" height="1057" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -583,7 +583,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67105263" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67105263" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -752,7 +752,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.025597269">
+        <state line="17" column="122" selection-start="412" selection-end="412" vertical-scroll-proportion="0.43515357">
           <folding />
         </state>
       </provider>
