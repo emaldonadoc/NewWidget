@@ -11,7 +11,7 @@
     <file path="$PROJECT_DIR$/../WINBITS/widgets/vendor/scripts/chaplin-0.9.0.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391017973142" ignored="false" />
     <file path="/chaplin-0.9.0.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391017973142" ignored="false" />
     <file path="/application.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391018433780" ignored="false" />
-    <file path="$PROJECT_DIR$/public/javascripts/app.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391108936461" ignored="false" />
+    <file path="$PROJECT_DIR$/public/javascripts/app.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391111978803" ignored="false" />
     <file path="/*.regexp" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391037639170" ignored="false" />
     <file path="/head-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391021286203" ignored="false" />
     <file path="/header-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391023548313" ignored="false" />
@@ -22,15 +22,15 @@
     <file path="/controller.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391034272984" ignored="false" />
     <file path="/main-page-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391039892753" ignored="false" />
     <file path="/main.hbs" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391036309377" ignored="false" />
-    <file path="/header-page-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391109042263" ignored="false" />
+    <file path="/header-page-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391111837408" ignored="false" />
     <file path="$PROJECT_DIR$/../WINBITS/widgets/public/index.html" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391037708219" ignored="false" />
     <file path="/index.html" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391039779273" ignored="false" />
     <file path="/.gitignore" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391100329618" ignored="false" />
-    <file path="/login-controller.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391107091355" ignored="false" />
+    <file path="/login-controller.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391111857556" ignored="false" />
     <file path="/login.hbs" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391105009071" ignored="false" />
     <file path="$PROJECT_DIR$/public/stylesheets/app.css" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391105779974" ignored="false" />
-    <file path="/login-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391107108989" ignored="false" />
-    <file path="/routes.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391108515170" ignored="false" />
+    <file path="/login-view.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391112139767" ignored="false" />
+    <file path="/routes.coffee" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391110960370" ignored="false" />
     <file path="/chaplin.js" changelist="2ebb3d7c-1e8b-49f8-9e00-07b772184581" time="1391109637472" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,40 +92,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main-page-view.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/main/main-page-view.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer-page-view.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/footer/footer-page-view.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="18" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="routes.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/routes.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="35" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+            <state line="5" column="163" selection-start="129" selection-end="129" vertical-scroll-proportion="0.084650114">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chaplin.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bower_components/chaplin/chaplin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2421" column="22" selection-start="70811" selection-end="70811" vertical-scroll-proportion="0.33252722">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +104,7 @@
       <file leaf-file-name="home-controller.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="56" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+            <state line="7" column="14" selection-start="285" selection-end="297" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,16 +113,7 @@
       <file leaf-file-name="header-page-view.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/header/header-page-view.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="86" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chaplin.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/chaplin/chaplin.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8916" selection-start="8906" selection-end="8916" vertical-scroll-proportion="-0.0">
+            <state line="14" column="3" selection-start="313" selection-end="407" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -160,7 +122,7 @@
       <file leaf-file-name="login-controller.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/login-controller.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="105" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+            <state line="7" column="72" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,7 +131,7 @@
       <file leaf-file-name="login.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/login/templates/login.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="79" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
+            <state line="0" column="31" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -178,7 +140,7 @@
       <file leaf-file-name="login-view.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/login/login-view.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="2" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+            <state line="10" column="16" selection-start="233" selection-end="246" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -205,11 +167,11 @@
         <option value="$PROJECT_DIR$/app/views/login/templates/login.hbs" />
         <option value="$PROJECT_DIR$/app/views/login/header-page-view.coffee" />
         <option value="$PROJECT_DIR$/app/controllers/home-controller.coffee" />
+        <option value="$PROJECT_DIR$/bower_components/chaplin/chaplin.js" />
+        <option value="$PROJECT_DIR$/app/views/login/login-view.coffee" />
+        <option value="$PROJECT_DIR$/app/views/header/header-page-view.coffee" />
         <option value="$PROJECT_DIR$/app/controllers/login-controller.coffee" />
         <option value="$PROJECT_DIR$/app/routes.coffee" />
-        <option value="$PROJECT_DIR$/app/views/header/header-page-view.coffee" />
-        <option value="$PROJECT_DIR$/app/views/login/login-view.coffee" />
-        <option value="$PROJECT_DIR$/bower_components/chaplin/chaplin.js" />
       </list>
     </option>
   </component>
@@ -264,38 +226,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewWidget" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chaplin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -607,6 +537,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/chaplin/chaplin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2432" column="160" selection-start="71132" selection-end="71132" vertical-scroll-proportion="0.96735185">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login/templates/login.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="31" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/chaplin/chaplin.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="8916" selection-start="8906" selection-end="8916" vertical-scroll-proportion="-0.0">
@@ -616,66 +562,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main/main-page-view.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+        <state line="6" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.101580136">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/footer/footer-page-view.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="56" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/header/header-page-view.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="86" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+        <state line="4" column="18" selection-start="123" selection-end="123" vertical-scroll-proportion="0.06772009">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/login/login-view.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+        <state line="10" column="16" selection-start="233" selection-end="246" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/login/templates/login.hbs">
+    <entry file="file://$PROJECT_DIR$/app/views/header/header-page-view.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="79" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.0">
+        <state line="14" column="3" selection-start="313" selection-end="407" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/login-controller.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="105" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+        <state line="7" column="72" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home-controller.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="285" selection-end="297" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="35" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+        <state line="5" column="163" selection-start="129" selection-end="129" vertical-scroll-proportion="0.084650114">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/chaplin/chaplin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2421" column="22" selection-start="70811" selection-end="70811" vertical-scroll-proportion="0.33252722">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

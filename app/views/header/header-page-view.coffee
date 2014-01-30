@@ -8,11 +8,9 @@ module.exports = class HeaderPageView extends View
   autoAttach: true
 
   initialize: ->
-#    super
+    super
     @delegate 'click', '.btn.btnTopNav', @clickLogin
 
   clickLogin: ->
-    params = 'foo'
-    console.log 'CLICK ON LOGIN!!'
-    Chaplin.utils.redirectTo controller: 'login', action: 'showLogin' , params: params
+    Chaplin.utils.redirectTo controller: 'login', action: 'showLogin' , params: {texto: 'LOGIN '}
 
