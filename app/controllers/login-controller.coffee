@@ -1,8 +1,8 @@
+HomeController = require 'controllers/home-controller'
 LoginPageView = require 'views/login/login-view'
 
-module.exports = class LoginController extends Chaplin.Controller
+module.exports = class LoginController extends HomeController
 
-  showLogin:(params) ->
-    console.log ['enroute in LOGIN', params]
-    @view = new LoginPageView(params)
-    Chaplin.utils.redirectTo controller: 'home', action: 'beforeAction'
+  showLogin: ->
+
+    @reuse 'login', LoginPageView

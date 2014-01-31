@@ -1,14 +1,21 @@
 View = require 'views/base/view'
 
 module.exports = class LoginPageView extends View
-  container: 'body'
-  tagName: 'login'
+  container: '.mainHeader .wrapper'
+  id: 'login'
+  autoRender: true
   template: require './templates/login'
   autoAttach: true
 
-  initialize:(params) ->
+  initialize: ->
    super
-   alert 'do ' + params.texto
+   @delegate 'click', '.btn.btnTopNav', @clickLogin
+
+  clickLogin: ->
+    console.log 'click Login'
+
+
+
 
 
 

@@ -3,6 +3,7 @@ Routes = require 'routes'
 
 module.exports = class HeaderPageView extends View
   container: 'body'
+  autoRender:true
   tagName: 'header'
   template: require './templates/header'
   autoAttach: true
@@ -12,5 +13,5 @@ module.exports = class HeaderPageView extends View
     @delegate 'click', '.btn.btnTopNav', @clickLogin
 
   clickLogin: ->
-    Chaplin.utils.redirectTo controller: 'login', action: 'showLogin' , params: {texto: 'LOGIN '}
+    Chaplin.utils.redirectTo controller: 'login', action: 'showLogin'
 
