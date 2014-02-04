@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "from": "model.coffee.hbs",
+      "from": "bits.coffee.hbs",
       "to": "app/models/{{name}}.coffee"
     }
   ]

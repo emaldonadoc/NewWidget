@@ -6,4 +6,15 @@ module.exports = class View extends Chaplin.View
 
   # Precompiled templates function initializer.
   getTemplateFunction: ->
-    @template
+    template = @template
+
+    if typeof template is 'string'
+      # Compile the template string to a function and save it
+      # on the prototype. This is a workaround since an instance
+      # shouldn’t change its prototype normally.
+      templateFunc = Handlebars.compile template
+      @constructor::template = templateFunc
+    else
+      templateFunc = template
+
+    templateFunc

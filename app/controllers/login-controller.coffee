@@ -1,8 +1,13 @@
 HomeController = require 'controllers/home-controller'
-LoginPageView = require 'views/login/login-view'
+LoggedView = require 'views/logged/logged-view'
+BitsModel = require 'models/bits/bits'
 
 module.exports = class LoginController extends HomeController
 
-  showLogin: ->
 
-    @reuse 'login', LoginPageView
+  showLogin: ->
+    @bitsModel = new BitsModel
+    @view = new  LoggedView (model: @bitsModel)
+
+
+

@@ -8,10 +8,3 @@ module.exports = class HeaderPageView extends View
   template: require './templates/header'
   autoAttach: true
 
-  initialize: ->
-    super
-    @delegate 'click', '.btn.btnTopNav', @clickLogin
-
-  clickLogin: ->
-    Chaplin.utils.redirectTo controller: 'login', action: 'showLogin'
-
