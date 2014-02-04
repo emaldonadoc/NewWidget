@@ -18,14 +18,9 @@
     "less": "1.4.1",
     "javascript-brunch": ">= 1.0 < 1.7",
     "coffee-script-brunch": ">= 1.0 < 1.7",
-
     "css-brunch": ">= 1.0 < 1.7",
     "stylus-brunch": ">= 1.0 < 1.7",
-
     "handlebars-brunch": ">= 1.0 < 1.7",
-    "less-brunch": "arcesino/less-brunch",
-
-
     "uglify-js-brunch": ">= 1.0 < 1.7",
     "clean-css-brunch": ">= 1.0 < 1.7"
   },

@@ -4,10 +4,11 @@ BitsModel = require 'models/bits/bits'
 
 module.exports = class LoginController extends HomeController
 
-
   showLogin: ->
-    @bitsModel = new BitsModel
-    @view = new  LoggedView (model: @bitsModel)
+    @bits = new BitsModel
+    @view = new  LoggedView {@bits}
+    @bits.fetch().then @view.render
+
 
 
 

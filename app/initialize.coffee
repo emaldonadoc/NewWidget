@@ -6,5 +6,6 @@ $ ->
   new Application {
     title: 'test in chaplin',
     controllerSuffix: '-controller',
+    pushState: false,
     routes
   }

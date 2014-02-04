@@ -1,5 +1,4 @@
 View = require 'views/base/view'
-LoggedView = require 'views/logged/logged-view'
 
 module.exports = class LoginPageView extends View
   container: '.mainHeader .wrapper'
@@ -15,8 +14,7 @@ module.exports = class LoginPageView extends View
 
   clickLogin: (e) ->
     e.preventDefault
-    $('.mainHeader .wrapper .login').remove()
-    console.log 'redirectign to login controller'
+    $('.mainHeader .wrapper .login').hide()
     Chaplin.utils.redirectTo controller:'login', action: 'showLogin'
 
 
