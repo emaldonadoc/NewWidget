@@ -10,9 +10,6 @@ module.exports = class LoggedView extends View
     'click .icon.trigger.triggerMiCuenta': 'showDropMenu'
     'click .miCuenta-close': 'hideDropMenu'
 
-  initialize: ->
-    @template(@model)
-
   showDropMenu:(e) ->
     e.preventDefault
     $('.dropMenu.miCuentaDiv').slideDown()

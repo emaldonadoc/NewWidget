@@ -42,14 +42,8 @@ module.exports = class View extends Chaplin.View
   Handlebars.registerHelper "debug", (optionalValue) ->
     console.log "Current Context"
     console.log "===================="
-    console.log 'debug context:'+ this
-#  if optionalValue
-#    console.log "Value"
-#    console.log "===================="
-#    console.log optionalValue
-
-  Handlebars.registerHelper "foo", ->
-    console.log "Current Context"
-    console.log "===================="
-    console.log 'entra'
-
+    console.log ['debug context0:', this]
+    if optionalValue
+      console.log "Value"
+      console.log "===================="
+      console.log optionalValue

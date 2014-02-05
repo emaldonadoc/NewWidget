@@ -3,7 +3,7 @@
 module.exports = class Bits extends Chaplin.Model
   initialize: ->
     super
-    @bits = 1000
+    @set({baits:"100a"})
 
   parse: (response) ->
     console.log ['reponse in bits coffee ', response]

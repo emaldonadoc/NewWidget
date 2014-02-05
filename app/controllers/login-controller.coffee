@@ -3,11 +3,12 @@ LoggedView = require 'views/logged/logged-view'
 BitsModel = require 'models/bits/bits'
 
 module.exports = class LoginController extends HomeController
-
+  
   showLogin: ->
-    @bits = new BitsModel
-    @view = new  LoggedView {model: @bits}
-
-
+    @baits = new BitsModel
+    console.log ['bits', @baits]
+    @view = new  LoggedView({model: @baits})
+    @view.render
+  
 
 
