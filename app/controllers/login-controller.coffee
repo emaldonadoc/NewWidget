@@ -6,8 +6,7 @@ module.exports = class LoginController extends HomeController
 
   showLogin: ->
     @bits = new BitsModel
-    @view = new  LoggedView {@bits}
-    @bits.fetch().then @view.render
+    @view = new  LoggedView {model: @bits}
 
 
 
