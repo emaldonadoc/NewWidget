@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "brunch watch --server",
-    "test": "brunch test"
+    "test": "make test"
   },
   "dependencies": {
     "handlebars": "1.0.10",
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "mocha": "~1.12.0",
+    "should": ">=0.5.1",
     "chai": "~1.7.0",
     "rewire": "~1.1.3",
     "express": "~3.3.0"
