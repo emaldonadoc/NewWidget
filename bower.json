@@ -8,9 +8,7 @@
     "lodash": "~2.4.0",
     "jquery": "~2.0.2",
     "normalize-css": "~2.1.2",
-    "h5bp-helpers": "~0.1.0",
-    "requirejs": "~2.1.8",
-    "mocha": "1.13.x"
+    "h5bp-helpers": "~0.1.0"
   },
   "overrides": {
     "backbone": {
